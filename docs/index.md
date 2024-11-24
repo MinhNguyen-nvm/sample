@@ -9,6 +9,7 @@ App Sizer is a tool designed to analyze the download size of Android application
 <img src="./images/dashboard.gif" width="90%">
 </p>
 
+
 ## Key Features
 App Sizer offers comprehensive analysis including:
 1. Total app download size
